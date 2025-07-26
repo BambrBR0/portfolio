@@ -1,0 +1,11 @@
+body {
+    font-family: sans-serif;
+}
+
+.games:hover {
+    content: url(https://pictures.pibig.info/uploads/posts/2023-04/1680630949_pictures-pibig-info-p-narisovannii-geimpad-vkontakte-32.png);
+}
+
+.bike:hover{
+    content: url(https://i.pinimg.com/originals/ef/1e/8e/ef1e8ea9019b0d882170beaa5a82cc5d.png);
+}
